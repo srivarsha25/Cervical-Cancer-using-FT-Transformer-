@@ -1,0 +1,27 @@
+# Datasets
+cervical_cancer_ai/image_data/
+cervical_cancer_ai/data/
+cervical_cancer_ai/mri_data/
+
+# Models
+*.pt
+*.h5
+*.pkl
+*.json
+
+# DB
+*.db
+
+# Reports
+*.pdf
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Env
+.env
